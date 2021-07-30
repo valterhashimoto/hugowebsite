@@ -1,2 +1,3 @@
 # hugowebsite
-AWS Hugo
+
+AWS Hugo website development repository
